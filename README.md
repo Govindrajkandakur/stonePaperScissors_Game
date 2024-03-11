@@ -1,1 +1,1 @@
-# stonePaperScissors_Game
+# StonePaperScissors_Game
